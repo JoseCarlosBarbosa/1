@@ -1,0 +1,47 @@
+{
+  "series": {
+    "1708460684046": {
+      "name": "La casa de papel",
+      "genre_id": 1708460666224,
+      "comments": "La casa de papel",
+      "poster": "//image.tmdb.org/t/p/original/qUmlmYWx3WndM01DHOTrmeiklVW.jpg",
+      "background": "//image.tmdb.org/t/p/original/gFZriCkpJYsApPZEF3jhxL4yLzG.jpg"
+    },
+    "1708463928005": {
+      "name": "Thor ",
+      "status": "PARA_ASSISTIR",
+      "genre_id": 1708460658750,
+      "comments": "comentario serie thor",
+      "poster": "//image.tmdb.org/t/p/original/71XnRvkadkWZZowCGcuBi4XAKdJ.jpg",
+      "background": "//image.tmdb.org/t/p/original/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg"
+    },
+    "1708528200221": {
+      "name": "Supernatural",
+      "status": "PARA_ASSISTIR",
+      "genre_id": 1708460658750,
+      "comments": "teste supernatural",
+      "poster": "//image.tmdb.org/t/p/original/ltLshA9CpddtLTHhcGQ7lGGM7uZ.jpg",
+      "background": "//image.tmdb.org/t/p/original/nVRyd8hlg0ZLxBn9RaI7mUMQLnz.jpg"
+    },
+    "1708528308490": {
+      "name": "Mulher Maravilha",
+      "status": "PARA_ASSISTIR",
+      "genre_id": 1708460658750,
+      "comments": "Mulher Maravilha",
+      "poster": "//image.tmdb.org/t/p/original/uOnakoQhq7jEWZm1B7v7QcVk4cG.jpg",
+      "background": "//image.tmdb.org/t/p/original/k1bgWTiZxIXB9d1uQg2mWinIBDt.jpg"
+    }
+  },
+  "genres": {
+    "2": {
+      "name": "Comédia"
+    },
+    "1708460658750": {
+      "name": "Ação"
+    },
+    "1708460666224": {
+      "name": "Romance"
+    }
+  },
+  "count": 0
+}
